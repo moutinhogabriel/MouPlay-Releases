@@ -1,0 +1,72 @@
+{
+  "name": "Gabriel Moutinho",
+  "subtitle": "Uma fonte para todos os meus aplicativos",
+  "description": "Bem-vindo à minha fonte! Aqui você encontrará todos os meus aplicativos.",
+  "iconURL": "https://raw.githubusercontent.com/moutinhogabriel/MouPlay-Releases/main/icone.png",
+  "website": "https://server.moutinho.app.br",
+  "tintColor": "#4F35F5",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "MouPlay",
+      "bundleIdentifier": "io.moutinho.mouplay",
+      "marketplaceID": "",
+      "developerName": "Gabriel Moutinho",
+      "subtitle": "Filmes, séries e TV ao vivo em um só lugar.",
+      "localizedDescription": "Entretenimento do seu jeito com o MouPlay! Explore um universo de filmes e séries, acompanhe seus canais favoritos com TV ao vivo e descubra novas histórias para todos os momentos. Tudo em uma experiência moderna, intuitiva e feita para você assistir quando e onde quiser. Dê o play e aproveite!",
+      "iconURL": "https://raw.githubusercontent.com/moutinhogabriel/MouPlay-Releases/main/logo.png",
+      "tintColor": "#2459cc",
+      "category": "entertainment",
+      "screenshots": [
+        {
+          "imageURL": "https://raw.githubusercontent.com/moutinhogabriel/MouPlay-Releases/main/Screenshots/1.jpg",
+          "width": 1280,
+          "height": 590
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/moutinhogabriel/MouPlay-Releases/main/Screenshots/2.jpg",
+          "width": 1280,
+          "height": 590
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/moutinhogabriel/MouPlay-Releases/main/Screenshots/3.jpg",
+          "width": 1280,
+          "height": 590
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/moutinhogabriel/MouPlay-Releases/main/Screenshots/4.jpg",
+          "width": 1280,
+          "height": 590
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/moutinhogabriel/MouPlay-Releases/main/Screenshots/5.jpg",
+          "width": 1280,
+          "height": 590
+        }
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/moutinhogabriel/MouPlay-Releases/releases/download/v2.0.0/MouPlay.ipa",
+          "size": 15400000,
+          "version": "2.0.0",
+          "buildVersion": null,
+          "date": "2026-10-12T15:15:00-03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Bluetooth é necessário para encontrar Chromecasts próximos com modo convidado\n                ativado.",
+          "NSBluetoothPeripheralUsageDescription": "Bluetooth é necessário para encontrar Chromecasts próximos com modo convidado\n                ativado.",
+          "NSLocalNetworkUsageDescription": "A permissão de rede local é necessária para descobrir dispositivos Cast na sua\n                rede WiFi.",
+          "NSMicrophoneUsageDescription": "O microfone é necessário para parear com Chromecasts próximos com modo convidado\n                ativado.",
+          "NSSpeechRecognitionUsageDescription": "O MouPlay usa reconhecimento de fala para buscar filmes e séries"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
