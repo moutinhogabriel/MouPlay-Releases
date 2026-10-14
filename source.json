@@ -45,10 +45,10 @@
       ],
       "versions": [
         {
-          "downloadURL": "https://github.com/moutinhogabriel/MouPlay-Releases/releases/download/v2.0.0/MouPlay.ipa",
+          "downloadURL": "https://github.com/moutinhogabriel/MouPlay-Releases/releases/download/v2.0.1/MouPlay.ipa",
           "size": 15400000,
-          "version": "2.0.0",
-          "buildVersion": "2.0.0",
+          "version": "2.0.1",
+          "buildVersion": "2.0.1",
           "date": "2026-10-12T15:15:00-03:00",
           "localizedDescription": null,
           "minOSVersion": null
